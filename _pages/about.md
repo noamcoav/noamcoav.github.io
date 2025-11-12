@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the Department of Computer Science and Applied Mathematics at the Weizmann Institute of Science. I am fortunate to be advised by Rotem Arnon.
+I am a PhD candidate in the Department of Computer Science and Applied Mathematics at the Weizmann Institute of Science. I am fortunate to be advised by [Rotem Arnon](https://www.weizmann.ac.il/complex/arnon/).
 
 My research interests lie at the intersection of quantum information theory and theoretical computer science, with a primary focus on cryptography in the quantum setting.
 
