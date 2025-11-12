@@ -1,8 +1,10 @@
 ---
-layout: about
-title: About
 permalink: /
+title: "About"
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 I am a PhD candidate in the Department of Computer Science and Applied Mathematics at the Weizmann Institute of Science. I am fortunate to be advised by Rotem Arnon.
