@@ -25,12 +25,12 @@ author:
   # Biographic information
   avatar           : "/images/profile.png"
   name             : "Noam"
-  pronouns         : # example: "she/her"  
-  bio              : #"Short biography for the left-hand sidebar"
-  location         : "Earth"
+#  pronouns         : # example: "she/her"  
+#  bio              : #"Short biography for the left-hand sidebar"
+#  location         : "Earth"
   employer         : "Weizmann Institute of Science"
-  uri              : # URL
-  email            : "none@example.org" 
+#  uri              : # URL
+#  email            : "none@example.org" 
 
   # Academic websites
   academia         : # URL
