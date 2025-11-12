@@ -1,4 +1,3 @@
-
 ---
 title: "Recorded talk from QCrypt 2025"
 collection: talks
