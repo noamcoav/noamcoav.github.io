@@ -1,7 +1,7 @@
 ---
 title: "Quantum Computational Unpredictability Entropy and Quantum Leakage Resilience"
 collection: publications
-category: Jurnal paper
+category: manuscripts
 venue: 'IEEE Transactions on Information Theory'
 date: 2026-01-28
 permalink: /_publications/2025-06-19-Quantum-Computational-Unpredictability-Entropy-and-Quantum-Leakage-Resilience
